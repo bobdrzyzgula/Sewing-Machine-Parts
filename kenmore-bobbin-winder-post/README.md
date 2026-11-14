@@ -49,7 +49,8 @@ machine whose original differs.
 
 - One M4 socket-head cap screw, 16 mm long. The right length may vary from
   machine to machine, depending on the casting thickness where the post mounts.
-- One M4 hex nut.
+- One M4 hex nut. It sits in a nut catch molded into the underside of the
+  machine's plastic top cover.
 
 ## Printing
 
@@ -68,7 +69,12 @@ machine whose original differs.
 2. Seat the post in the round socket in the top cover where the original post
    was, with the flange facing up and its offset side toward the bobbin winder
    spindle (see the installed photos).
-3. Secure it from below with the M4 nut.
+3. From the underside of the plastic top cover, drop the M4 nut into the
+   hex nut catch molded around the post hole, and tighten the screw into it.
+
+<p align="center">
+  <img src="images/nut-catch-underside.jpg" width="60%" alt="Underside of the top cover, with the M4 nut seated in the molded nut catch">
+</p>
 
 ## Building from source
 
